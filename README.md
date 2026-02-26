@@ -1,0 +1,72 @@
+# Khalid – Young Dumb & Broke
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+So you're still thinking of me
+Just like I know you should
+I can not give you everything, you know I wish I could
+I'm so high at the moment
+I'm so caught up in this
+Yeah, we're just young, dumb and broke
+But we still got love to give
+
+While we're young dumb
+Young, young dumb and broke
+Young dumb
+Young, young dumb and broke
+Young dumb
+Young, young dumb and broke
+Young dumb broke high school kids
+Yadadadadadadada
+Yadadadadadada
+Yadadadadadadada
+Young dumb broke high school kids
+
+We have so much in common
+We argue all the time
+You always say I'm wrong
+I'm pretty sure I'm right
+What's fun about commitment?
+When we have our life to live
+Yeah, we're just young dumb and broke
+But we still got love to give
+
+While we're young dumb
+Young, young dumb and broke
+Young dumb
+Young, young dumb and broke
+Young dumb
+Young, young dumb and broke
+Young dumb broke high school kids
+Yadadadadadadada
+Yadadadadadada
+Yadadadadadadada
+Young dumb broke high school kids
+
+Jump and we think - leave it all in the game of love
+Love
+Run into sin, do it all in the name of fun
+Fun
+Whoa-oa-oa
+I'm so high at the moment
+I'm so caught up in this
+Yeah, we're just young, dumb and broke
+But we still got love to give
+
+While we're young dumb
+Young, young dumb and broke
+Young dumb
+Young, young dumb and broke
+Young dumb
+Young, young dumb and broke
+Young dumb broke high school kids
+Yadadadadadadada
+Yadadadadadada
+Yadadadadadadada
+Young dumb broke high school kids
+Yadadadadadadada
+Yadadadadadada
+Yadadadadadadada
+Young dumb broke high school kids
+```
