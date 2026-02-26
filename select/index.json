@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Young Dumb & Broke",
+  "base_artist": "Khalid",
+  "createdAt": "2026-02-26T06:44:05.146795Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Young & Dumb",
+      "artist": "Cigarettes After Sex",
+      "has_synced": true,
+      "path": "select/01_Young_&_Dumb_Cigarettes_After_Sex.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Young Dumb & Broke",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Scotty Grand",
+      "has_synced": false,
+      "path": "select/02_Young_Dumb_&_Broke_Scott_Bradlee's_Postmodern_Jukebox_feat._Scotty_Grand.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Young Dumb & Broke",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/03_Young_Dumb_&_Broke_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Young, Dumb & Ugly",
+      "artist": "\"Weird Al\" Yankovic",
+      "has_synced": true,
+      "path": "select/04_Young,_Dumb_&_Ugly_Weird_Al__Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Young, Dumb & Ugly",
+      "artist": "'Weird Al' Yankovic",
+      "has_synced": true,
+      "path": "select/05_Young,_Dumb_&_Ugly_'Weird_Al'_Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Young, Dumb and Full of It",
+      "artist": "Adam Ant",
+      "has_synced": true,
+      "path": "select/06_Young,_Dumb_and_Full_of_It_Adam_Ant.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "09 Young Dumb And Full Of It",
+      "artist": "Adam Ant",
+      "has_synced": true,
+      "path": "select/07_09_Young_Dumb_And_Full_Of_It_Adam_Ant.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Young, Dumb And Ugly",
+      "artist": "Weird Al Yankovic",
+      "has_synced": true,
+      "path": "select/08_Young,_Dumb_And_Ugly_Weird_Al_Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Young Dumb & Broke",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/09_Young_Dumb_&_Broke_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Young, Dumb & Broke",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/10_Young,_Dumb_&_Broke_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Young Dumb Full of Fun (Bonus Track) [feat. Ces Cru & Mackenzie O'Guin]",
+      "artist": "Tech N9ne",
+      "has_synced": true,
+      "path": "select/11_Young_Dumb_Full_of_Fun_(Bonus_Track)_[feat._Ces_Cru_&_Mackenzie_O'Guin]_Tech_N9ne.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Young Dumb Full of Fun",
+      "artist": "Tech N9ne",
+      "has_synced": true,
+      "path": "select/12_Young_Dumb_Full_of_Fun_Tech_N9ne.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Young Dumb & Broke",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/13_Young_Dumb_&_Broke_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Young Dumb & Broke",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/14_Young_Dumb_&_Broke_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Young Dumb & Broke",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/15_Young_Dumb_&_Broke_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Young Dumb and Stung",
+      "artist": "Say Anything",
+      "has_synced": true,
+      "path": "select/16_Young_Dumb_and_Stung_Say_Anything.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Young, Dumb, Stupid",
+      "artist": "NMIXX",
+      "has_synced": true,
+      "path": "select/17_Young,_Dumb,_Stupid_NMIXX.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Young Dumb & Broke",
+      "artist": "Khalid",
+      "has_synced": false,
+      "path": "select/pl_01_Young_Dumb_&_Broke_Khalid.txt"
+    }
+  ]
+}
